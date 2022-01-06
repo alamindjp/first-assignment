@@ -108,7 +108,7 @@ h1{
     background-image: url(./images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 150PX auto;
-    background-position: right 110px bottom 50px;
+    background-position: right 90px bottom 80px;
 }
 .fix-width-img{
     width: 50%;
@@ -128,7 +128,8 @@ h1{
     background-color: #02041f;
     color: wheat;
     text-align: center;
-    padding: 20px 0;
+    padding: 10px 0;
+    margin-bottom: 10px;   
 }
 .footer-heading{
     font-size: 35px;
