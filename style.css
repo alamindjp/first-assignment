@@ -51,6 +51,12 @@ h1{
     font-size: 55px;
     color: #2c0449;
 }
+h2{
+    font-size: 40px;
+    line-height: 60px;
+    padding-left: 10px;
+    color: #000000;
+}
 
 .top-banner p{
     padding-right: 40px;
@@ -142,6 +148,7 @@ h1{
 .footer-heading{
     font-size: 35px;
     margin-bottom: 30px;
+    color: #ecebeb;
     font-family: 'The Nautigal', cursive;
 
 }
