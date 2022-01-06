@@ -95,6 +95,7 @@ h1{
 .document-section{
     width: 80%;
     margin: 0 auto;
+    text-align: justify;
     
 }
 .bgm-left{
@@ -118,6 +119,7 @@ h1{
 .fix-width-para{
     width: 60%;
     margin-left: 10px;
+    padding-right: 30px;
 }
 .footer{
     background-color: #02041f;
