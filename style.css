@@ -28,7 +28,7 @@ body{
 }
 .top-banner p{
     font-size: 18px;
-    color: #19002b88;
+    color: #000000;
     margin-top: 20Px;
     text-align: justify;
 }
@@ -123,6 +123,12 @@ h1{
 }
 #docu-two-img{
     margin-left: 30px;
+}
+#web-analysis-img{
+    margin-right: 40px;
+    margin-top: 60px;
+    width: 60%;
+
 }
 .footer{
     background-color: #02041f;
