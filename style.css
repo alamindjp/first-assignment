@@ -92,6 +92,23 @@ h1{
 .goals{
     background-color: #c2756e62;
 }
+.document-section{
+    width: 80%;
+    margin: 0 auto;
+    
+}
+.bgm-left{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200PX auto;
+    background-position: left 40px top 50px;
+}
+.bgm-right{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 150PX auto;
+    background-position: right 110px bottom 50px;
+}
 .fix-width-img{
     width:40%;
 }
@@ -100,6 +117,7 @@ h1{
 }
 .fix-width-para{
     width: 60%;
+    margin-left: 10px;
 }
 .footer{
     background-color: #02041f;
