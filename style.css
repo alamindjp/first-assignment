@@ -50,8 +50,31 @@ p{
     color: #19002b88;
     margin-top: 20Px;
     text-align: justify;
+}
+.top-banner p{
     padding-right: 40px;
 }
 #margin-top{
     margin-top: 140px;
+}
+.group-heading{
+    text-align: center;
+    font-size: 45px;
+}
+.mission-img img{
+    width: 40%;
+}
+.terget{
+    border: 1px solid #b683dd;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 3%;
+    box-shadow: 10px 10px 40px ;
+    padding-bottom: 50px;
+}
+.mission{
+    margin: 0;
+    background-color: #ce748949;
+    color: #040008;
 }
